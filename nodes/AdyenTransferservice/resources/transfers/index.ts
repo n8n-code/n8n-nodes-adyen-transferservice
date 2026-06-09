@@ -75,7 +75,7 @@ export const transfersDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Balance Account Id",
+			"displayName": "Balance Account ID",
 			"name": "balanceAccountId",
 			"type": "string",
 			"default": "",
@@ -195,7 +195,7 @@ export const transfersDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "string",
 			"default": "",
@@ -220,7 +220,7 @@ export const transfersDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Payment Instrument Id",
+			"displayName": "Payment Instrument ID",
 			"name": "paymentInstrumentId",
 			"type": "string",
 			"default": "",

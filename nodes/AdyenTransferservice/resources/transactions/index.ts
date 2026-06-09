@@ -27,8 +27,8 @@ export const transactionsDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Get Transactions Id",
-					"value": "Get Transactions Id",
+					"name": "Get Transactions ID",
+					"value": "Get Transactions ID",
 					"action": "Get a transaction",
 					"description": "Returns a transaction.",
 					"routing": {
@@ -86,7 +86,7 @@ export const transactionsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Payment Instrument Id",
+			"displayName": "Payment Instrument ID",
 			"name": "paymentInstrumentId",
 			"description": "Unique identifier of the [payment instrument](https://docs.adyen.com/api-explorer/balanceplatform/latest/get/paymentInstruments/_id_).",
 			"default": "",
@@ -111,7 +111,7 @@ export const transactionsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Account Holder Id",
+			"displayName": "Account Holder ID",
 			"name": "accountHolderId",
 			"description": "Unique identifier of the [account holder](https://docs.adyen.com/api-explorer/#/balanceplatform/latest/get/accountHolders/{id}__queryParam_id).",
 			"default": "",
@@ -136,7 +136,7 @@ export const transactionsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Balance Account Id",
+			"displayName": "Balance Account ID",
 			"name": "balanceAccountId",
 			"description": "Unique identifier of the [balance account](https://docs.adyen.com/api-explorer/#/balanceplatform/latest/get/balanceAccounts/{id}__queryParam_id).",
 			"default": "",
@@ -301,13 +301,13 @@ export const transactionsDescription: INodeProperties[] = [
 						"Transactions"
 					],
 					"operation": [
-						"Get Transactions Id"
+						"Get Transactions ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Unique identifier of the transaction.",
@@ -319,7 +319,7 @@ export const transactionsDescription: INodeProperties[] = [
 						"Transactions"
 					],
 					"operation": [
-						"Get Transactions Id"
+						"Get Transactions ID"
 					]
 				}
 			}
@@ -344,7 +344,7 @@ export const transactionsDescription: INodeProperties[] = [
 						"Transactions"
 					],
 					"operation": [
-						"Get Transactions Id"
+						"Get Transactions ID"
 					]
 				}
 			}

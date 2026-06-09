@@ -53,10 +53,20 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Transactions | Get all transactions, Get a transaction |
-| Transfers | Post transfer funds |
+<details>
+<summary><b>Transactions</b> (2 operations)</summary>
+
+- Get all transactions
+- Get a transaction
+
+</details>
+
+<details>
+<summary><b>Transfers</b> (1 operations)</summary>
+
+- Post Transfer funds
+
+</details>
 
 ---
 
